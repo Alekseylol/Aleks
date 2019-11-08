@@ -34,7 +34,7 @@ namespace kub
                           
                     }
                     i = 1;
-                    Console.WriteLine("!");
+                    Console.WriteLine("!");//3123
                     
                 }
             }

@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 
 namespace kub
@@ -10,9 +10,9 @@ namespace kub
             int size, i = 1;
             size = Convert.ToInt32(Console.ReadLine());
 
-            for (int x = 0; x <= size+1; x++)
+            for (int x = 0; x <= size + 1; x++)
             {
-                if ((x == 0) || (x == size+1))
+                if ((x == 0) || (x == size + 1))
                 {
                     while (i <= size)
                     {
@@ -27,15 +27,15 @@ namespace kub
                 else
                 {
                     Console.Write("! ");
-                    while (i <= size-1)
+                    while (i <= size - 1)
                     {
                         Console.Write("  ");
                         i++;
-                          
+
                     }
                     i = 1;
                     Console.WriteLine("!");//3123
-                    
+
                 }
             }
 
@@ -45,10 +45,11 @@ namespace kub
 
 
 
-        
 
 
 
 
+*/
 
- 
+
+
